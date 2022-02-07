@@ -28,3 +28,7 @@ To clone a repository (repo) on Windows:
    `GIT-INSTALL-FOLDER\bin\git -C "LOCAL-FOLDER" pull`
    - If you have made any changes to the files, this will fail and you'll need to discard your changes with this command:
      `GIT-INSTALL-FOLDER\bin\git -C "LOCAL-FOLDER" reset --hard main`
+
+## Reporting Errors
+
+If you find any typos or errors, report them using the `Issues` tab on GitHub (near the top).  
