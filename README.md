@@ -29,6 +29,10 @@ To clone a repository (repo) on Windows:
    - If you have made any changes to the files, this will fail and you'll need to discard your changes with this command:
      `GIT-INSTALL-FOLDER\bin\git -C "LOCAL-FOLDER" reset --hard main`
 
+## Viewing Files
+
+If you decide to download the files locally, you will need a Markdown reader like Typora to see the file properly formatted.  Refer to the instructions on setting up Typora on Canvas.
+
 ## Reporting Errors
 
 If you find any typos or errors, report them using the `Issues` tab on GitHub (near the top).  
