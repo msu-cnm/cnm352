@@ -1,0 +1,3 @@
+## Python Privilege Escalation
+
+https://medium.com/@klockw3rk/privilege-escalation-hijacking-python-library-2a0e92a45ca7
