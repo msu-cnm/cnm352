@@ -107,8 +107,8 @@ git commit -am "My Commit Message"
 For a newly cloned repo, you need to setup author information:
 
 ```bash
-C:\Dropbox\Apps\PortableGit\bin\git config --global user.email "msu.cnm@murraystate.edu"
-C:\Dropbox\Apps\PortableGit\bin\git config --global user.email "b.dixon"
+C:\Dropbox\Apps\PortableGit\bin\git config --global user.email "some@email.com"
+C:\Dropbox\Apps\PortableGit\bin\git config --global user.email "somebody"
 ```
 
 Use the token created above:
